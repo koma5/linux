@@ -106,7 +106,7 @@ dtb-$(CONFIG_ARCH_MXC) += imx8dx-colibri-iris.dtb
 dtb-$(CONFIG_ARCH_MXC) += imx8dxl-evk.dtb
 dtb-$(CONFIG_ARCH_MXC) += imx8mp-debix-model-a-ov5640.dtbo
 
-imx8mp-debix-model-a-io-ov5640-dtbs		:= imx8mp-debix-model-a.dtb imx8mp-debix-model-a-ov5640.dtbo
+imx8mp-debix-model-a-ov5640-dtbs		:= imx8mp-debix-model-a.dtb imx8mp-debix-model-a-ov5640.dtbo
 
 dtb-$(CONFIG_ARCH_MXC) += imx8mp-debix-model-a-ov5640.dtb
 
